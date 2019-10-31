@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScoreKeepingApp</string>
+    <string name="ScoreKeepingApp">ScoreKeepingApp</string>
+    <string name="Score">Score\'s</string>
+    <string name="TeamA">Team-A</string>
+    <string name="TeamB">Team-B</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Plus1">+</string>
+    <string name="Minus1">-</string>
+    <string name="RadioButton1">score Increases by 1</string>
+    <string name="RadioButton2">Score increases by 2</string>
+    <string name="RadioButton3">Score increases by 3</string>
+</resources>
